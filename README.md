@@ -24,8 +24,8 @@
 <br/>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=stffinfcti&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&border_color=303030" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stffinfcti&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&border_color=303030" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=stffinfcti&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&border_color=303030" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stffinfcti&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&border_color=303030" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=stffinfcti&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9f9f9f&dates=6f6f6f&border=303030" />
