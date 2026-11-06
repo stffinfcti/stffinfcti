@@ -24,8 +24,8 @@
 <br/>
 
 <div align="center">
-  <img height="168" src="https://raw.githubusercontent.com/stffinfcti/stffinfcti/profile-summary-card-output/transparent/3-stats.svg" />
-  <img height="168" src="https://raw.githubusercontent.com/stffinfcti/stffinfcti/profile-summary-card-output/transparent/2-most-commit-language.svg" />
+  <img height="168" src="https://raw.githubusercontent.com/stffinfcti/stffinfcti/main/profile-summary-card-output/transparent/3-stats.svg" />
+  <img height="168" src="https://raw.githubusercontent.com/stffinfcti/stffinfcti/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=stffinfcti&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9f9f9f&dates=6f6f6f&border=303030" />
