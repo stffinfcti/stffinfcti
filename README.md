@@ -1,7 +1,7 @@
 ![banner](banner.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&lines=16+y%2Fo+building+agent+tooling;things+that+audit+what+agents+actually+do;4+tools+shipped+%C2%B7+1+in+the+official+hermes+catalog" alt="16 y/o building agent tooling" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&lines=16+y%2Fo+building+agent+tooling;things+that+audit+what+agents+actually+do;i+%E2%99%A5+agents;4+tools+shipped+%C2%B7+1+in+the+official+hermes+catalog" alt="16 y/o building agent tooling" />
 </div>
 
 <br/>
@@ -40,5 +40,7 @@
 </picture>
 
 <div align="center">
+  <img src="heart.png" width="20" /><br/>
+  <sub>i &lt;3 agents · uptime ~5,844 days · zero crashes</sub><br/><br/>
   <sub><a href="https://x.com/stffinfcti">x</a> · <a href="https://github.com/stffinfcti/understudy">understudy</a> · <a href="https://github.com/stffinfcti?tab=repositories">everything else</a></sub>
 </div>
