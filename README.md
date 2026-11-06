@@ -1,14 +1,15 @@
 ![banner](banner.png)
 
-i build tooling — mostly things that make agents more honest about what they can do.
+16 · i build tools — mostly things that make agents more honest about what they can do.
 
-### shipping
+### shipped
 
-- **[understudy](https://github.com/stffinfcti/understudy)** — auditions cheaper models on your real Hermes history before you switch. blind judge, real decisions, projected cost. in the official Hermes plugin catalog.
-- **[canary](https://github.com/stffinfcti/canary)** — try a few first, then do the rest. an agent skill that samples your items, learns from your edits, and holds back what doesn't match.
+- **[canary](https://github.com/stffinfcti/canary)** — try a few first, then do the rest. an agent skill that samples your items, learns your edits, and holds back what doesn't match.
 - **[git-will](https://github.com/stffinfcti/git-will)** — write the will for your repo. ownership, bus factor, a succession plan for whoever's next.
-- **[publish-preflight](https://github.com/stffinfcti/publish-preflight)** — fail the publish, not your users. smoke-test the packed tarball before npm ships it.
+- **[publish-preflight](https://github.com/stffinfcti/publish-preflight)** — smoke-test the packed npm tarball before it ships. fail the publish, not your users.
+- **[understudy](https://github.com/stffinfcti/understudy)** — audition cheaper models on your real Hermes history before you switch. in the official Hermes plugin catalog.
 
-<a href="https://github.com/stffinfcti/understudy/releases/tag/v1.0.0"><img src="https://raw.githubusercontent.com/stffinfcti/understudy/main/docs/demo.gif" width="540"></a>
-
-`hermes plugins install understudy`
+<p align="center">
+<a href="https://github.com/stffinfcti/understudy/releases/tag/v1.0.0"><img src="https://raw.githubusercontent.com/stffinfcti/understudy/main/docs/demo.gif" width="380"></a><br>
+<sub>latest film: the understudy demo</sub>
+</p>
